@@ -3,15 +3,14 @@
     margin: 0;
     padding: 0;
 }
+
 section{
     display: inline-block;
-}
-
-img{
     width: 415px;
+
 }
 
-#block1  :hover{
+.bloco >  img:hover{
     display: none;
 }
 
